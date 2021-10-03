@@ -1,1 +1,2 @@
-# JavaFX-Hotel-Management-System
+# JavaFX-Hotel-Application
+JavaFX Hotel Application UOC
