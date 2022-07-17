@@ -1,15 +1,15 @@
-# JavaFX-Hotel-Application
-JavaFX Hotel Application UOC
+## JavaFX-Hotel-Application
+# JavaFX Hotel Application UOC
+
 ![1](https://user-images.githubusercontent.com/65810943/179385970-1caf4bce-d08a-4340-bce3-d4ae280377e4.png)
+
+![5](https://user-images.githubusercontent.com/65810943/179385991-cfed9149-9b68-4c0b-9fa5-5272adc15ad8.png)
 
 ![3](https://user-images.githubusercontent.com/65810943/179385984-e0451dd9-869c-4637-b7a3-3278e17599c9.png)
 
 ![2](https://user-images.githubusercontent.com/65810943/179385983-6cb43868-203d-4476-bb8d-e21d0e590268.png)
 
 ![4](https://user-images.githubusercontent.com/65810943/179385990-8bafb655-4680-46b8-927b-5ed567544505.png)
-
-![5](https://user-images.githubusercontent.com/65810943/179385991-cfed9149-9b68-4c0b-9fa5-5272adc15ad8.png)
-
 
 
 ![Screenshot from 2021-10-03 19-57-45](https://user-images.githubusercontent.com/65810943/135758396-50dc080f-9b62-4f84-9050-080ba83a622f.png)
