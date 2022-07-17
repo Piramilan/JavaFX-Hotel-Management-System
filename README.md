@@ -2,15 +2,15 @@
 JavaFX Hotel Application UOC
 ![1](https://user-images.githubusercontent.com/65810943/179385970-1caf4bce-d08a-4340-bce3-d4ae280377e4.png)
 
-![Screenshot from 2021-10-03 19-54-53](https://user-images.githubusercontent.com/65810943/135758378-cc22e054-e000-4f1b-b72f-b19ee17089eb.png)
+![3](https://user-images.githubusercontent.com/65810943/179385984-e0451dd9-869c-4637-b7a3-3278e17599c9.png)
 
-![Screenshot from 2021-10-03 19-55-05](https://user-images.githubusercontent.com/65810943/135758414-745ed665-16f2-4959-aea3-116232bc76f9.png)
-![Screenshot from 2021-10-03 19-55-15](https://user-images.githubusercontent.com/65810943/135758408-ddc7615a-ca82-43cc-bbcb-dbe1ffd14c32.png)
+![2](https://user-images.githubusercontent.com/65810943/179385983-6cb43868-203d-4476-bb8d-e21d0e590268.png)
 
-![Screenshot from 2021-10-03 19-55-12](https://user-images.githubusercontent.com/65810943/135758410-f92319e0-d0ae-43e7-a20c-850707b896cc.png)
+![4](https://user-images.githubusercontent.com/65810943/179385990-8bafb655-4680-46b8-927b-5ed567544505.png)
+
+![5](https://user-images.githubusercontent.com/65810943/179385991-cfed9149-9b68-4c0b-9fa5-5272adc15ad8.png)
 
 
-![Screenshot from 2021-10-03 19-55-18](https://user-images.githubusercontent.com/65810943/135758407-a7748e8a-41fc-496a-bc56-4f8029564f73.png)
 
 ![Screenshot from 2021-10-03 19-57-45](https://user-images.githubusercontent.com/65810943/135758396-50dc080f-9b62-4f84-9050-080ba83a622f.png)
 ![Screenshot from 2021-10-03 19-57-40](https://user-images.githubusercontent.com/65810943/135758398-9a411507-cc9a-4a16-833f-4aae520ce042.png)
